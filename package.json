@@ -1,0 +1,23 @@
+{
+  "name": "learninggit-project",
+  "version": "1.0.0",
+  "description": "echo \"# My Web Application\" > README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharifshaik006/development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharifshaik006/development/issues"
+  },
+  "homepage": "https://github.com/sharifshaik006/development#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
